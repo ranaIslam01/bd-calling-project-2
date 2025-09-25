@@ -1,0 +1,21 @@
+.btn {
+  font-size: 1.125rem;
+  color: #ffffff;
+  background-color: #e3342f;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid;
+  cursor: pointer;
+  font-weight: 500;
+  transition-duration: 300ms;
+}
+
+.btn:hover {
+  border-color: #cc1f1a;
+  background-color: #f9f9f9;
+  color: #e3342f;
+  transition-duration: 300ms;
+}
