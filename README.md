@@ -1,7 +1,8 @@
 # FileWisely - Figma to HTML/Tailwind Conversion
 
 <div align="center">
-  ![Uploading Screenshot 2025-10-06 144413.png…]()
+  <img width="1353" height="647" alt="Screenshot 2025-10-06 144413" src="https://github.com/user-attachments/assets/0a6f8090-427a-4161-953d-65d655b0df57" />
+
 
 </div>
 
