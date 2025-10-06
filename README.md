@@ -1,7 +1,8 @@
 # FileWisely - Figma to HTML/Tailwind Conversion
 
 <div align="center">
-  <img src="https://i.ibb.co/pW6xZ8Y/filewisely-demo.png" alt="FileWisely Project Screenshot" width="80%">
+  ![Uploading Screenshot 2025-10-06 144413.png…]()
+
 </div>
 
 <p align="center">
